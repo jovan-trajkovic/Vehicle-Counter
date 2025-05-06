@@ -1,3 +1,5 @@
 datasets/
 runs/
 marked_images/
+*.mp4
+yolo11n.pt
